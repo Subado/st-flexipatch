@@ -9,8 +9,14 @@ static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
 #if FONT2_PATCH
 /* Spare fonts */
 static char *font2[] = {
-/*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
-/*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
+	"Noto Color Emoji:pixelsize=15:antialias=false:autohint=false",
+	"icomoon:pixelsize=14:antialias=true:autohint=true",
+	"Material Design Icons Desktop:pixelsize=15:antialias=true:autohint=true",
+	"Fira Code Regular Nerd Font Complete:pixelsize=15:antialias=true:autohint=true",
+	"Font Awesome 6 Brands Regular:pixelsize=15:antialias=true:autohint=true",
+	"Font Awesome 6 Free Solid:pixelsize=15:antialias=true:autohint=true",
+	"Font Awesome 6 Free Regular:pixelsize=15:antialias=true:autohint=true",
+	"font-awesome-extension:pixelsize=15:antialias=true:autohint=true",
 };
 #endif // FONT2_PATCH
 
