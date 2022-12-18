@@ -12,6 +12,7 @@ static char *font2[] = {
 	"Noto Color Emoji:pixelsize=15:antialias=false:autohint=false",
 	"icomoon:pixelsize=14:antialias=true:autohint=true",
 	"Material Design Icons Desktop:pixelsize=15:antialias=true:autohint=true",
+	"Noto Sans CJK:pixelsize=15:antialias=false:autohint=false",
 	"Fira Code Regular Nerd Font Complete:pixelsize=15:antialias=true:autohint=true",
 	"Font Awesome 6 Brands Regular:pixelsize=15:antialias=true:autohint=true",
 	"Font Awesome 6 Free Solid:pixelsize=15:antialias=true:autohint=true",
