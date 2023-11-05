@@ -9,15 +9,21 @@ static char *font = "Hack Nerd Font:pixelsize=15:antialias=true:autohint=true";
 #if FONT2_PATCH
 /* Spare fonts */
 static char *font2[] = {
-	"Noto Color Emoji:pixelsize=15:antialias=false:autohint=false",
-	"icomoon:pixelsize=14:antialias=true:autohint=true",
-	"Material Design Icons Desktop:pixelsize=15:antialias=true:autohint=true",
-	"Noto Sans CJK:pixelsize=15:antialias=false:autohint=false",
-	"Fira Code Regular Nerd Font Complete:pixelsize=15:antialias=true:autohint=true",
-	"Font Awesome 6 Brands Regular:pixelsize=15:antialias=true:autohint=true",
-	"Font Awesome 6 Free Solid:pixelsize=15:antialias=true:autohint=true",
-	"Font Awesome 6 Free Regular:pixelsize=15:antialias=true:autohint=true",
-	"font-awesome-extension:pixelsize=15:antialias=true:autohint=true",
+    "Noto Color Emoji:pixelsize=15:antialias=false:autohint=false",
+    "icomoon:pixelsize=14:antialias=true:autohint=true",
+    "Material Design Icons Desktop:pixelsize=15:antialias=true:autohint=true",
+    "Noto Sans CJK SC:pixelsize=15:antialias=false:autohint=false",
+    "Noto Sans CJK TC:pixelsize=15:antialias=false:autohint=false",
+    "Noto Sans CJK JP:pixelsize=15:antialias=false:autohint=false",
+    "Noto Sans CJK KR:pixelsize=15:antialias=false:autohint=false",
+    "Noto Sans CJK HK :pixelsize=15:antialias=false:autohint=false",
+    "Fira Code Regular Nerd Font "
+    "Complete:pixelsize=15:antialias=true:autohint=true",
+    "Font Awesome 6 Brands Regular:pixelsize=15:antialias=true:autohint=true",
+    "Font Awesome 6 Free Solid:pixelsize=15:antialias=true:autohint=true",
+    "Font Awesome 6 Free Regular:pixelsize=15:antialias=true:autohint=true",
+    "font-awesome-extension:pixelsize=15:antialias=true:autohint=true",
+    "codicon:pixelsize=15:antialias=true:autohint=true",
 };
 #endif // FONT2_PATCH
 
